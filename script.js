@@ -39,8 +39,8 @@
 
 
         const texts = [
-            " Computer Science Student",
-            "Aspiring Web Developer"
+            " COMPUTER SCIENCE STUDENT",
+            "ASPIRING WEB DEVELOPER"
         ]
         
         let speed = 100;
